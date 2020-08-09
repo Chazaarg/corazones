@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+svg {
+  margin: 1em;
+  width: 100px;
+  height: 100px;
+  background: url(https://img-fotki.yandex.ru/get/6834/5091629.a2/0_8591d_16b74e17_orig)
+    no-repeat center center;
+}
